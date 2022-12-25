@@ -1,1 +1,1 @@
-worker: node . --db 'mongodb+srv://Ep:saep@cluster0.joeag.mongodb.net/?retryWrites=true&w=majority'
+node . --db 'mongodb+srv://Ivanwagu:warugunung@cluster0.ul1fdaa.mongodb.net/?retryWrites=true&w=majority'
