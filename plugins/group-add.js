@@ -1,4 +1,4 @@
-import fetch from 'node-fetch'
+/*import fetch from 'node-fetch'
 /**
  * @type {import('@adiwajshing/baileys')}
  */
@@ -52,4 +52,4 @@ handler.group = true
 handler.botAdmin = true
 handler.owner = false
 
-export default handler
+export default handler*\
