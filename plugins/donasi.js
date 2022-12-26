@@ -1,16 +1,16 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 let text = `
 ┌─「 Donasi • Pulsa 」
-│ • *Telkomsel:* [${global.ppulsa}]
-│ • *Telkomsel:* [${global.ppulsa2}]
+│ • *Indosat:* [085876830674]
+│ • *Indosat:* [085876830674]
 ❏────
 
 ┌─「 Donasi • Non Pulsa 」
-│ • *Dana:* [${global.pdana}]
+│ • *Dana:* [085876830674]
 ❏────
 `
 const templateButtons = [
-    {index: 1, urlButton: {displayText: '✨ Saweria', url: psaweria}},
+    {index: 1, urlButton: {displayText: 'gc 🗿', url: sgc}},
     {index: 2, urlButton: {displayText: '📷 Instagram', url: sig}},
     {index: 3, urlButton: {displayText: '🌎 Official Group', url: sgc}},
     {index: 4, quickReplyButton: {displayText: 'Menu', id: '.menu'}},
