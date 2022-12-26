@@ -53,10 +53,10 @@ let handler = async (m, { conn, usedPrefix, __dirname, text, command }) => {
   let speed = neww - old
     conn.sendHydrated(m.chat, 
     '*––––––『 BOT INFO 』––––––*', 
-`🤖 ɴᴀᴍᴇ: ${_package.name}
+`🤖 ɴᴀᴍᴇ: SANS BOT
 🧩 ᴠᴇʀsɪᴏɴ: ${_package.version}
-📚 ʟɪʙʀᴀʀʏ: ${_package.description}
-👩‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: NexEp
+📚 ʟɪʙʀᴀʀʏ: ʙᴀᴋsᴏ ᴛɪᴛɪᴛ
+👩‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: ɪᴠᴀɴ
 
 ⏳ ᴜᴩᴛɪᴍᴇ: ${uptime}
 📈 ᴅᴀᴛᴀʙᴀsᴇ: ${totalreg}
@@ -64,7 +64,7 @@ let handler = async (m, { conn, usedPrefix, __dirname, text, command }) => {
 📅 ᴅᴀᴛᴇ: ${date}
 ⌚ ᴛɪᴍᴇ: ${time} ﹙ɢᴍᴛ +5:30﹚
 
-💻 sᴇʀᴠᴇʀ ɪɴғᴏ :
+💻 sᴇʀᴠᴇʀ ɪɴғᴏ : ʙᴀᴋsᴏ
 ⮕ ᴩɪɴɢ: ${speed} ᴍs
 ⮕ ʀᴀᴍ: ${format(totalmem() - freemem())} / ${format(totalmem())}
 
