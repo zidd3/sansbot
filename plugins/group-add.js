@@ -2,7 +2,7 @@
 /**
  * @type {import('@adiwajshing/baileys')}
  */
-/*const { getBinaryNodeChild, getBinaryNodeChildren } = (await import('@adiwajshing/baileys')).default
+/**const { getBinaryNodeChild, getBinaryNodeChildren } = (await import('@adiwajshing/baileys')).default
 let handler = async (m, { conn, text, participants }) => {
     let _participants = participants.map(user => user.id)
     let users = (await Promise.all(
@@ -52,4 +52,4 @@ handler.group = true
 handler.botAdmin = true
 handler.owner = false
 
-export default handler*\
+export default handler**\
