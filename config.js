@@ -54,7 +54,8 @@ global.nameown = 'ivan'
 global.owner = [
   ['nomor lu'],
   ['6285809011357'],
-  ['6285876830674', 'jangan di ganti nanti eror', true]
+  ['6285876830674', 'jangan di ganti nanti eror', true]//lu ganti aja nomor yang belum diisi
+    //nomor ke 2 dan ke 3 jangan di ubah nanti eror
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = ['6285876830674'] // Want some help?
