@@ -3,7 +3,7 @@ let handler = async (m, { conn, args, command }) => {
 let totalf = Object.values(global.plugins).filter(
     (v) => v.help && v.tags
   ).length;
- await conn.sendButton(m.chat, ` _*Bang/kak kalo make bot donasi dong buat beli kuota, please_\n`,wm + '\n\n' + botdate, giflogo, [['𝘼𝙇𝙇 𝙈𝙀𝙉𝙐','.? all'],['𝙇𝙄𝙎𝙏 𝙈𝙀𝙉𝙐','.siuuu']], m, {
+ await conn.sendButton(m.chat, ` _*Bang/kak kalo make bot donasi dong buat beli kuota, please_*\nlevel 30 = membuka fitur download ig\nlevel 40 = membuka fitur download youtube\nlevel 60 = membuka fitur smeme\nlevel 80 = membuka fitur tiktok download `,wm + '\n\n' + botdate, giflogo, [['𝘼𝙇𝙇 𝙈𝙀𝙉𝙐','.? all'],['𝙇𝙄𝙎𝙏 𝙈𝙀𝙉𝙐','.siuuu']], m, {
 contextInfo: { externalAdReply :{
                         mediaUrl: '',
                         mediaType: 2,
