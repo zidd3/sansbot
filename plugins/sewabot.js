@@ -1,11 +1,11 @@
 let handler = async (m, { conn }) => {
 	//-----PRICE
 //sewa
-let sh = '5'
-let sn = '15'
-let ss = '20'
-let sp = '35'
-let sv = '40'
+let sh = '10'
+let sn = '20'
+let ss = '30'
+let sp = '40'
+let sv = '50'
 //premium
 let ph = '5'
 let pn = '15'
@@ -19,7 +19,7 @@ let info = `
 ╭━━━━「 *SEWA* 」
 ┊⫹⫺ *Hemat:* _${sh}k/grup (7 Hari)_
 ┊⫹⫺ *Normal:* _${sn}k/grup (1 bulan)_                                         
-┊⫹⫺ *permanen:* = _${sv}k/grup (unlimited)_
+┊⫹⫺ *SC:* = _${sv}k (scbot wa)_
 ╰═┅═━––––––๑
 
 ╭━━━━「 *PREMIUM* 」
@@ -28,8 +28,8 @@ let info = `
 ┊⫹⫺ *Permanent:* = _${ppm}k (Unlimited)_
 ╰═┅═━––––––๑
 ╭━━━━「 *PERPANJANG SEWA* 」
-┊⫹⫺ *Hemat:* _3k (7 Hari)_
-┊⫹⫺ *Normal:* _6k (1 bulan)_                                       
+┊⫹⫺ *Hemat:* _5k (7 Hari)_
+┊⫹⫺ *Normal:* _15k (1 bulan)_                                       
 ╰═┅═━––––––๑
 ╭━━━━「 *PERPANJANG PREMIUM* 」
 ┊⫹⫺ *Hemat:* _3k (7 Hari)_
@@ -71,9 +71,9 @@ const sections = [
    {
 	title: `${htjava} SEWA ✦-------`,
 	rows: [
-	    {title: "🔖 HEMAT", rowId: '.order *Paket:* 5K • Sewa', description: 'PRICE: ' + sh + 'k (7 Hari)' },
-	    {title: "🔖 NORMAL", rowId: '.order *Paket:* 10K • Sewa', description: 'PRICE: ' + sn + 'k (1 bulan)' },
-	{title: "🔖 Permanen", rowId: '.order *Paket:* 40K • Sewa', description: 'PRICE: ' + sv + 'k (Permanen)' },
+	    {title: "🔖 HEMAT", rowId: '.order *Paket:* 10K • Sewa', description: 'PRICE: ' + sh + 'k (7 Hari)' },
+	    {title: "🔖 NORMAL", rowId: '.order *Paket:* 20K • Sewa', description: 'PRICE: ' + sn + 'k (1 bulan)' },
+	{title: "🔖 SC", rowId: '.order *Paket:* 40K • SC', description: 'PRICE: ' + sv + 'k (SC)' },
 	]
     }, {
     title: `${htjava} PREMIUM ✦-------`,
