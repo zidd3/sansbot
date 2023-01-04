@@ -76,7 +76,7 @@ let handler = async (m, { conn, usedPrefix, __dirname, text, command }) => {
 ⮕ ${chats.length} - Total Chats
 `.trim(), './media/botinfo.jpg', 'https://chat.whatsapp.com/EPmjuw9X1wZDGX1p4NCV1e', '🎀GRUP', null, null, [
 [`👑ᴏᴡɴᴇʀ`, `${usedPrefix}owner`],
-[`💱ᴅᴏɴᴀᴛᴇ`, `${usedPrefix}donate`]
+[`💱ᴅᴏɴᴀᴛᴇ`, `${usedPrefix}donasi`]
 ], m, {asLocation: false})
 }
 handler.help = ['botinfo']
