@@ -236,11 +236,11 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
    {
 	title: `${htki} ▮𝗦𝘁𝗮𝘁𝘂𝘀 」 ${htka}`,
 	rows: [
-	    {title: `📛)ഒ Info Bot`, rowId: ".botinfo", description: "✧ Info nya NexBotz ><"},
+	    {title: `📛)ഒ Info Bot`, rowId: ".botinfo", description: "✧ Info nya SansBot ><"},
 	    {title: `💌)ഒ Owner`, rowId: ".owner", description: "✧ Ini Room Developer ku ^~^"},
             {title: `🗣)ഒ Request Fitur`, rowId: ".request", description: "✧ Request Fitur menarik ke BOT"},
             {title: `📊)ഒ Test Speed`, rowId: ".testspeed", description: "✧ Test Install Speed BOT"},
-	{title: `⚡)ഒ Speed`, rowId: ".speed", description: "✧ Kecepatan Respon 赤 NexBotz..."},
+	{title: `⚡)ഒ Speed`, rowId: ".speed", description: "✧ Kecepatan Respon 赤 SansBot..."},
 	]
     },{
 	title: `${htki} ▮𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆 」 ${htka}`,
