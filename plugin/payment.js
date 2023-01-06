@@ -9,7 +9,7 @@ let handler = async (m, { conn, usedPrefix }) => {
     const ojam = Math.floor( Kurang % (1000 * 60 * 60 * 24) / (1000 * 60 * 60))
     const onet = Math.floor( Kurang % (1000 * 60 * 60) / (1000 * 60))
     const detek = Math.floor( Kurang % (1000 * 60) / 1000)
-  let vn = `https://github.com/icontol/kontolbapakkaupecah/raw/main/mp3/ivan.mp3`
+  let vn = `https://github.com/Icontol/kontolbapakkaupecah/blob/master/mp3/ivan.mp3?raw=true`
   conn.sendButton(m.chat, `
 ┏━ꕥ〔 *Donasi • Dana* 〕ꕥ━⬣
 ┃✾ Gopay  [6285876830674]
