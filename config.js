@@ -27,11 +27,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/ivantheo159'
+global.sig = 'https://www.instagram.com/reel/CiPmlHsp_ek/?igshid=Yzg5MTU1MDY='
 global.syt = 'https://youtube.com/channel/UCUmkGSW0FF6OyJ9x5uLal5g'
 global.sgh = 'https://github.com/icontol'
 global.sgc = 'https://chat.whatsapp.com/EPmjuw9X1wZDGX1p4NCV1e'
-global.swa = 'wa.me/6285876830674'
+global.swa = 'wa.me/6281316235253'
 global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
@@ -46,8 +46,8 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '6281316235253'
 global.nomorown = '6281226512906'
-global.namebot = 'ramzbot'
-global.nameown = 'adit-ower'
+global.namebot = 'RamzBotzz'
+global.nameown = 'Nathaliee Azzahraa'
 
 
 /*============== STAFF ==============*/
@@ -105,21 +105,21 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By nataliee' //Main Watermark
-global.wm2 = 'ramzbot'
-global.wm3 = 'ramzbot| By nataliee'
+global.wm = 'By Nathaliee' //Main Watermark
+global.wm2 = 'Ramz-Botzz'
+global.wm3 = 'Ramz-Botzz| By Nathaliee'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `ramzbot | ʙʏ ${global.nameown}`
-global.author = 'nataliee' 
-global.packname = 'nataliee'
+global.titlebot = `Ramz-Botzz | ʙʏ ${global.nameown}`
+global.author = 'Nathaliee' 
+global.packname = 'Nathaliee'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'September 10 2023'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/2cb377366f990d128aede.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/2cb377366f990d128aede.jpg'
+global.thumb = 'https://telegra.ph/file/6cec2f26269e9fea2922e.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/6cec2f26269e9fea2922e.jpg'
 global.giflogo = 'https://ibb.co/r0Vt8bY'
 global.thumbbc = 'https://telegra.ph/file/d8db24c75dcc2684f542c.mp4' //For broadcast
 global.giflogo = 'https://telegra.ph/file/d8db24c75dcc2684f542c.mp4'
@@ -128,14 +128,14 @@ global.thumbs = ['https://telegra.ph/file/2cb377366f990d128aede.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/2cb377366f990d128aede.jpg'
 global.thumbWarn = 'https://telegra.ph/file/2cb377366f990d128aede.jpg'
-global.botintro = 'Hallo, Kenalin saya sansbot Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh ivan'
-global.intro = 'https://telegra.ph/file/183dbb588860972fd68ca.jpg'
+global.botintro = 'Hallo, Kenalin saya Nathaliee Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh Ramz-Corp'
+global.intro = 'https://telegra.ph/file/6cec2f26269e9fea2922e.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'creator'
+global.nameowner = 'Nathaliee'
 global.umurowner = '16'
-global.asalowner = 'Jawa Tengah, Rembang'
-global.nomorowner = 'wa.me/6285876830674'
-global.pacarowner = 'YTTA'
+global.asalowner = 'New South Wales, Australia'
+global.nomorowner = 'wa.me/6281226512906'
+global.pacarowner = 'Caaaa``'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜 𝙩𝙤𝙙 𝙨𝙖𝙗𝙖𝙧 🗿...```'
@@ -151,7 +151,7 @@ global.drtf = 'text/rtf'
 global.thumbdoc = 'https://telegra.ph/file/183dbb588860972fd68ca.jpg'
 
 /*=========== FAKE SIZE ===========*/
-global.fsizedoc = '99999999999999' // default 10TB
+global.fsizedoc = '99999999999999' // default 1000TB
 global.fpagedoc = '999'
 
 /*=========== HIASAN ===========*/
@@ -383,8 +383,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By sansbot'
-global.stickauth = `ivan`
+global.stickpack = 'By Nathaliee×'
+global.stickauth = `Ramz-Ganzz`
 
 global.multiplier = 38 // The higher, The harder levelup
 
