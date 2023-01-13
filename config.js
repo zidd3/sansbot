@@ -44,15 +44,15 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281909541146'
-global.nomorown = '6285876830674'
-global.namebot = 'sansbot'
-global.nameown = 'ivan'
+global.nomorbot = '6281316235253'
+global.nomorown = '6281226512906'
+global.namebot = 'ramzbot'
+global.nameown = 'adit-ower'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['nomor lu'],
+  ['6281226512906'],
   ['6285809011357'],
   ['6285876830674', 'jangan di ganti nanti eror', true]//lu ganti aja nomor yang belum diisi
     //nomor ke 2 dan ke 3 jangan di ubah nanti eror
@@ -105,14 +105,14 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By sansbot' //Main Watermark
-global.wm2 = 'ivan'
-global.wm3 = 'sansbot | By ivan'
+global.wm = 'By nataliee' //Main Watermark
+global.wm2 = 'ramzbot'
+global.wm3 = 'ramzbot| By nataliee'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `sansbot | ʙʏ ${global.nameown}`
-global.author = 'ivan' 
-global.packname = 'ivan'
+global.titlebot = `ramzbot | ʙʏ ${global.nameown}`
+global.author = 'nataliee' 
+global.packname = 'nataliee'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'September 10 2023'
 
@@ -131,7 +131,7 @@ global.thumbWarn = 'https://telegra.ph/file/2cb377366f990d128aede.jpg'
 global.botintro = 'Hallo, Kenalin saya sansbot Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh ivan'
 global.intro = 'https://telegra.ph/file/183dbb588860972fd68ca.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ivan'
+global.nameowner = 'creator'
 global.umurowner = '16'
 global.asalowner = 'Jawa Tengah, Rembang'
 global.nomorowner = 'wa.me/6285876830674'
