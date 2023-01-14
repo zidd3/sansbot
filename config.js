@@ -105,14 +105,14 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By Nathaliee' //Main Watermark
+global.wm = 'By Nathaliee×' //Main Watermark
 global.wm2 = 'Ramz-Botzz'
-global.wm3 = 'Ramz-Botzz| By Nathaliee'
+global.wm3 = 'Ramz-Botzz| By Nathaliee×'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `Ramz-Botzz | ʙʏ ${global.nameown}`
-global.author = 'Nathaliee' 
-global.packname = 'Nathaliee'
+global.author = 'Nathaliee×' 
+global.packname = 'Nathaliee×'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'September 10 2023'
 
