@@ -121,8 +121,8 @@ global.ultahowner = 'September 10 2023'
 global.thumb = 'https://telegra.ph/file/2cb377366f990d128aede.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/2cb377366f990d128aede.jpg'
 global.giflogo = 'https://ibb.co/r0Vt8bY'
-global.thumbbc = 'https://telegra.ph/file/d8db24c75dcc2684f542c.mp4' //For broadcast
-global.giflogo = 'https://telegra.ph/file/d8db24c75dcc2684f542c.mp4'
+global.thumbbc = 'https://telegra.ph/file/4f36ec45b612def63521a.mp4' //For broadcast
+global.giflogo = 'https://telegra.ph/file/4f36ec45b612def63521a.mp4'
 global.giflogo2 = 'https://telegra.ph/file/2cb377366f990d128aede.jpg'
 global.thumbs = ['https://telegra.ph/file/2cb377366f990d128aede.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
