@@ -6,8 +6,8 @@
  * 
  */
 
-/*
-export async function before(m) {
+
+/**export async function before(m) {
 	if (!m.chat.endsWith('@s.whatsapp.net')) return !0;
 	this.menfess = this.menfess ? this.menfess : {}
 	let mf = Object.values(this.menfess).find(v => v.status === false && v.penerima == m.sender)
@@ -22,3 +22,4 @@ export async function before(m) {
 		return !0
 	})
 }
+*\
