@@ -6,7 +6,7 @@
  * 
  */
 
-
+/*
 export async function before(m) {
 	if (!m.chat.endsWith('@s.whatsapp.net')) return !0;
 	this.menfess = this.menfess ? this.menfess : {}
