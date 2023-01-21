@@ -11,7 +11,7 @@ contextInfo: { externalAdReply :{
                         title: bottime,
                         body: 'Total Cintaku Padamu',          previewType: 0,
                         thumbnail: fs.readFileSync("./thumbnail.jpg"),
-                        sourceUrl: sgc
+                        sourceUrl: 'https://chat.whatsapp.com/EPmjuw9X1wZDGX1p4NCV1e'
                       }}
 })
 }
