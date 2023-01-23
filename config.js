@@ -113,7 +113,7 @@ global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `sansbot | ʙʏ ${global.nameown}`
 global.author = 'ivan' 
 global.packname = 'ivan'
-global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
+global.danied = 'ANU... MAAF YA, BACA TULISAN DI BAWAH'
 global.ultahowner = 'September 10 2023'
 
 
