@@ -35,7 +35,7 @@
 	{title: "📑 | Document", rowId: `${usedPrefix + command} document`},
 	{title: "👤 | WhiteListMyContact", rowId: `${usedPrefix + command} whitelistmycontact`},
 	{title: "🌟 | Restrict", rowId: `${usedPrefix + command} restrict`},
-	{title: "😐 | Nyimak", rowId: `${usedPrefix + command} nyimak`},
+	{title: "😐 | Nyimak", rowId: `${usedPrefix}banchat`},
 	{title: "🤬 | Antibadword", rowId: `${usedPrefix + command} antibadword`},
 	{title: "💬 | PcOnly", rowId: `${usedPrefix + command} pconly`},
 	{title: "🏢 | GcOnly", rowId: `${usedPrefix + command} gconly`},
