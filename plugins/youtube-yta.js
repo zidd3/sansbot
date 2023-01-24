@@ -24,7 +24,7 @@ let handler = async (m, { conn, args, isPrems, isOwner }) => {
       lastError = e
     }
   }
-  if ((!(source instanceof ArrayBuffer) || !link || !res.ok) && !isLimit) throw 'Error: ' + (lastError || 'Can\'t download audio')
+  if ((!(source instanceof ArrayBuffer) || !link || !res.ok) && !isLimit) throw 'Error: ' + (lastError || 'Can\'t download audio\n\npihak youtube tidak memperbolehkan download audio ini, cari link youtube yang lain\n\nusahakan cari link yang viewnya tidak terlalu banyak')
   if (!isY && !isLimit) await conn.sendFile(m.chat, thumbnail, 'thumbnail.jpg', `
 *${htki} YOUTUBE ${htka}*
 
