@@ -14,7 +14,7 @@ handler.help = ['ojoin <chat.whatsapp.com>']
 handler.tags = ['owner']
 
 handler.command = /^ojoin$/i
-
+handler.rowner = true
 export default handler
 
 const isNumber = (x) => (x = parseInt(x), typeof x === 'number' && !isNaN(x))
