@@ -52,6 +52,7 @@ global.nameown = 'ytta'
 
 /*============== STAFF ==============*/
 global.owner = [
+  ['6289508208490'],
   ['6285729855013'],
   ['6285809011357'],
   ['6285876830674', 'jangan di ganti nanti eror', true]//lu ganti aja nomor yang belum diisi
