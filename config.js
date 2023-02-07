@@ -44,15 +44,15 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281909541146'
-global.nomorown = '6285876830674'
+global.nomorbot = '6285729855013'
+global.nomorown = '6285729855013'
 global.namebot = 'sansbot'
-global.nameown = 'ivan'
+global.nameown = 'ytta'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['nomor lu'],
+  ['6285729855013'],
   ['6285809011357'],
   ['6285876830674', 'jangan di ganti nanti eror', true]//lu ganti aja nomor yang belum diisi
     //nomor ke 2 dan ke 3 jangan di ubah nanti eror
