@@ -27,7 +27,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/ivantheo159'
+global.sig = 'https://www.instagram.com/reel/Cobvl_IJCYj/?igshid=OGQ2MjdiOTE='
 global.syt = 'https://youtube.com/channel/UCUmkGSW0FF6OyJ9x5uLal5g'
 global.sgh = 'https://github.com/icontol'
 global.sgc = 'https://chat.whatsapp.com/EPmjuw9X1wZDGX1p4NCV1e'
@@ -45,9 +45,9 @@ global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285729855013'
-global.nomorown = '6285729855013'
-global.namebot = 'sansbot'
-global.nameown = 'ytta'
+global.nomorown = '6285641208657'
+global.namebot = 'ZIDD-MD'
+global.nameown = 'ZiddRachellii-XD'
 
 
 /*============== STAFF ==============*/
@@ -106,36 +106,36 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By sansbot' //Main Watermark
-global.wm2 = 'ivan'
-global.wm3 = 'sansbot | By ivan'
+global.wm = 'By ZiddRachelii-XD' //Main Watermark
+global.wm2 = 'Zidd-MD'
+global.wm3 = 'ZIDD-BOT | By Rachelii-MD'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `sansbot | ʙʏ ${global.nameown}`
-global.author = 'ivan' 
-global.packname = 'ivan'
-global.danied = 'ANU... MAAF YA, BACA TULISAN DI BAWAH'
+global.author = 'Ziddnyy' 
+global.packname = 'Ziddnyy'
+global.danied = 'ACCESS DANIED.....'
 global.ultahowner = 'September 10 2023'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/2cb377366f990d128aede.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/2cb377366f990d128aede.jpg'
+global.thumb = 'https://telegra.ph/file/0e2c8225a606afdabd36a.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/0e2c8225a606afdabd36a.jpg'
 global.giflogo = 'https://ibb.co/r0Vt8bY'
 global.thumbbc = 'https://telegra.ph/file/4f36ec45b612def63521a.mp4' //For broadcast
 global.giflogo = 'https://telegra.ph/file/4f36ec45b612def63521a.mp4'
-global.giflogo2 = 'https://telegra.ph/file/2cb377366f990d128aede.jpg'
-global.thumbs = ['https://telegra.ph/file/2cb377366f990d128aede.jpg']
+global.giflogo2 = 'https://telegra.ph/file/0e2c8225a606afdabd36a.jpg'
+global.thumbs = ['https://telegra.ph/file/0e2c8225a606afdabd36a.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.thumbBanned = 'https://telegra.ph/file/2cb377366f990d128aede.jpg'
-global.thumbWarn = 'https://telegra.ph/file/2cb377366f990d128aede.jpg'
-global.botintro = 'Hallo, Kenalin saya sansbot Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh ivan'
+global.thumbBanned = 'https://telegra.ph/file/0e2c8225a606afdabd36a.jpg'
+global.thumbWarn = 'https://telegra.ph/file/0e2c8225a606afdabd36a.jpg'
+global.botintro = 'Hallo, Kenalin saya ZIDD-XD Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh Rachelii-MD'
 global.intro = 'https://telegra.ph/file/183dbb588860972fd68ca.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ivan'
-global.umurowner = '16'
-global.asalowner = 'Jawa Tengah, Rembang'
-global.nomorowner = 'wa.me/6285876830674'
+global.nameowner = 'Zidny'
+global.umurowner = '18'
+global.asalowner = 'Jawa Tengah, Pekalongan'
+global.nomorowner = 'wa.me/6289508208490'
 global.pacarowner = 'YTTA'
 
 /*============== TEXT ==============*/
@@ -384,8 +384,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By sansbot'
-global.stickauth = `ivan`
+global.stickpack = 'By Rachelii-MD'
+global.stickauth = `Zidd-XD`
 
 global.multiplier = 38 // The higher, The harder levelup
 
