@@ -36,18 +36,18 @@ global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
-global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '-'
-global.ppulsa2 = '-'
-global.psaweria = '-'
+global.pdana = '6289508208490'
+global.povo = '6289508208490'
+global.pgopay = '6289508208490'
+global.ppulsa = '6289508208490'
+global.ppulsa2 = '6285729855013'
+global.psaweria = '6289508208490'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285729855013'
 global.nomorown = '6285729855013'
-global.namebot = 'sansbot'
-global.nameown = 'ytta'
+global.namebot = 'ZiddBott'
+global.nameown = 'zidny'
 
 
 /*============== STAFF ==============*/
@@ -106,16 +106,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By sansbot' //Main Watermark
-global.wm2 = 'ivan'
-global.wm3 = 'sansbot | By ivan'
+global.wm = 'By ZIDDBOTT' //Main Watermark
+global.wm2 = 'zidny'
+global.wm3 = 'ZiddBot | By zidd'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `sansbot | ʙʏ ${global.nameown}`
-global.author = 'ivan' 
-global.packname = 'ivan'
+global.author = 'zidd' 
+global.packname = 'zidd'
 global.danied = 'ANU... MAAF YA, BACA TULISAN DI BAWAH'
-global.ultahowner = 'September 10 2023'
+global.ultahowner = 'Maret 31 2023'
 
 
 /*============== LOGO ==============*/
@@ -132,11 +132,11 @@ global.thumbWarn = 'https://telegra.ph/file/2cb377366f990d128aede.jpg'
 global.botintro = 'Hallo, Kenalin saya sansbot Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh ivan'
 global.intro = 'https://telegra.ph/file/183dbb588860972fd68ca.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ivan'
+global.nameowner = 'Zidd'
 global.umurowner = '16'
-global.asalowner = 'Jawa Tengah, Rembang'
-global.nomorowner = 'wa.me/6285876830674'
-global.pacarowner = 'YTTA'
+global.asalowner = 'Jawa Tengah,Pekalongan'
+global.nomorowner = 'wa.me/6289508208490'
+global.pacarowner = 'RACHEL'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜 𝙩𝙤𝙙 𝙨𝙖𝙗𝙖𝙧 🗿...```'
