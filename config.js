@@ -27,7 +27,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://www.instagram.com/reel/CiPmlHsp_ek/?igshid=Yzg5MTU1MDY='
+global.sig = 'https://www.instagram.com/reel/Cobvl_IJCYj/?igshid=OGQ2MjdiOTE='
 global.syt = 'https://youtube.com/channel/UCUmkGSW0FF6OyJ9x5uLal5g'
 global.sgh = 'https://github.com/icontol'
 global.sgc = 'https://chat.whatsapp.com/EPmjuw9X1wZDGX1p4NCV1e'
@@ -44,15 +44,15 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281316235253'
-global.nomorown = '6281226512906'
-global.namebot = 'RamzBotzz'
-global.nameown = 'Nathaliee Azzahraa'
+global.nomorbot = '6285729855013'
+global.nomorown = '6289508208490'
+global.namebot = 'ZIDD-XD'
+global.nameown = 'Rachelii-MD'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281226512906'],
+  ['6289508208490'],
   ['6285809011357'],
   ['6285876830674', 'jangan di ganti nanti eror', true]//lu ganti aja nomor yang belum diisi
     //nomor ke 2 dan ke 3 jangan di ubah nanti eror
@@ -105,37 +105,37 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By Nathaliee×' //Main Watermark
-global.wm2 = 'Ramz-Botzz'
-global.wm3 = 'Ramz-Botzz| By Nathaliee×'
+global.wm = 'By Zidd-XD' //Main Watermark
+global.wm2 = 'Rachelii-MD'
+global.wm3 = 'Zidd-XD| By Rachelii-MD'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `Ramz-Botzz | ʙʏ ${global.nameown}`
-global.author = 'Nathaliee×' 
-global.packname = 'Nathaliee×'
+global.author = 'Zidd-XD' 
+global.packname = 'Rachelii-MD'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'September 10 2023'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/6cec2f26269e9fea2922e.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/6cec2f26269e9fea2922e.jpg'
+global.thumb = 'https://telegra.ph/file/0e2c8225a606afdabd36a.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/0e2c8225a606afdabd36a.jpg'
 global.giflogo = 'https://ibb.co/r0Vt8bY'
 global.thumbbc = 'https://telegra.ph/file/d8db24c75dcc2684f542c.mp4' //For broadcast
 global.giflogo = 'https://telegra.ph/file/d8db24c75dcc2684f542c.mp4'
-global.giflogo2 = 'https://telegra.ph/file/2cb377366f990d128aede.jpg'
-global.thumbs = ['https://telegra.ph/file/2cb377366f990d128aede.jpg']
+global.giflogo2 = 'https://telegra.ph/file/0e2c8225a606afdabd36a.jpg'
+global.thumbs = ['https://telegra.ph/file/0e2c8225a606afdabd36a.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.thumbBanned = 'https://telegra.ph/file/2cb377366f990d128aede.jpg'
-global.thumbWarn = 'https://telegra.ph/file/2cb377366f990d128aede.jpg'
-global.botintro = 'Hallo, Kenalin saya Nathaliee Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh Ramz-Corp'
-global.intro = 'https://telegra.ph/file/6cec2f26269e9fea2922e.jpg'
+global.thumbBanned = 'https://telegra.ph/file/0e2c8225a606afdabd36a.jpg'
+global.thumbWarn = 'https://telegra.ph/file/0e2c8225a606afdabd36a.jpg'
+global.botintro = 'Hallo, Kenalin saya Zidd-BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh Rachelii-MD'
+global.intro = 'https://telegra.ph/file/0e2c8225a606afdabd36a.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Nathaliee'
-global.umurowner = '16'
-global.asalowner = 'New South Wales, Australia'
-global.nomorowner = 'wa.me/6281226512906'
-global.pacarowner = 'Caaaa``'
+global.nameowner = 'Zidnyy'
+global.umurowner = '18'
+global.asalowner = 'Pekalongan, jawa tengah'
+global.nomorowner = 'wa.me/6289508208490'
+global.pacarowner = 'Private'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜 𝙩𝙤𝙙 𝙨𝙖𝙗𝙖𝙧 🗿...```'
@@ -383,8 +383,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By Nathaliee×'
-global.stickauth = `Ramz-Ganzz`
+global.stickpack = 'Zidd-XD'
+global.stickauth = `Rachelii-MD`
 
 global.multiplier = 38 // The higher, The harder levelup
 
