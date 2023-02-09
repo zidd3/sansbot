@@ -27,7 +27,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/ivantheo159'
+global.sig = 'https://www.instagram.com/reel/Cobvl_IJCYj/?igshid=OGQ2MjdiOTE='
 global.syt = 'https://youtube.com/channel/UCUmkGSW0FF6OyJ9x5uLal5g'
 global.sgh = 'https://github.com/icontol'
 global.sgc = 'https://chat.whatsapp.com/EPmjuw9X1wZDGX1p4NCV1e'
@@ -46,8 +46,8 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '6285729855013'
 global.nomorown = '6285729855013'
-global.namebot = 'sansbot'
-global.nameown = 'ytta'
+global.namebot = 'ZIDD-XD'
+global.nameown = 'Rachelii-MD'
 
 
 /*============== STAFF ==============*/
